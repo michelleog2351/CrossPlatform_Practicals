@@ -11,14 +11,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.PackageName", "com.companyname.loginui1")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.PublisherName", "User Name")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.Name", "LoginUI1")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.Version", "1.0.0.1")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoginUI1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+4104ee2951c75eaba9fdad10339de5664c1ede48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fb7deb39cbffc82f76b56c7203070e179debd07")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoginUI1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoginUI1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
